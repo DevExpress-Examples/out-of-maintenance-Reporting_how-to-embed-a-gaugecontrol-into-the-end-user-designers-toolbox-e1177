@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
+* [MyGaugeControl.cs](./CS/WindowsApplication1/MyGaugeControl.cs) (VB: [MyGaugeControl.vb](./VB/WindowsApplication1/MyGaugeControl.vb))
+<!-- default file list end -->
 # How to embed a GaugeControl into the End-User Designer's toolbox
 
 
